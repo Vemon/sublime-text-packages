@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Focus File on Sidebar",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"Gulp",
+		"HTML5",
+		"JSHint Gutter",
+		"Material Theme",
+		"Neka Theme",
+		"Origami",
+		"Package Control",
+		"Project Manager",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Terminality",
+		"tern_for_sublime",
+		"Theme - Spacegray"
+	]
+}

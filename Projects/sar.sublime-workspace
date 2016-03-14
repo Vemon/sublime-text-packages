@@ -1,0 +1,1255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"animat",
+				"animatable"
+			],
+			[
+				"initBox",
+				"initBoxComplete"
+			],
+			[
+				"img",
+				"imgUrl"
+			],
+			[
+				"enabe",
+				"enableScroll"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"fi",
+				"finalize"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"next",
+				"nextIndex"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"full",
+				"fullpage"
+			],
+			[
+				"enable",
+				"enableScrolling()"
+			],
+			[
+				"nextI",
+				"nextId"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/js/_main.js",
+			"settings":
+			{
+				"buffer_size": 34171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/photographers.php",
+			"settings":
+			{
+				"buffer_size": 1977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archive-film.php",
+			"settings":
+			{
+				"buffer_size": 1781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/film.php",
+			"settings":
+			{
+				"buffer_size": 473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archives.php",
+			"settings":
+			{
+				"buffer_size": 1823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/functions.php",
+			"settings":
+			{
+				"buffer_size": 4768,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/partial/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 1515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/layouts/_archives.scss",
+			"settings":
+			{
+				"buffer_size": 5667,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pro",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"git: dif",
+				"Git: Diff Current File"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"git: di",
+				"git: diff current file inline"
+			],
+			[
+				"gitsa",
+				"GitSavvy: help"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"origa",
+				"Origami: Create Pane Below"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp kil",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"termin",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/acf-json",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/js",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/layouts",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/partial",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/public",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates"
+	],
+	"file_history":
+	[
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/Gulp Results",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/acf-configs.php",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/gulpfile.js",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/film.php",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archives.php",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archive-film.php",
+		"/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/functions.php",
+		"/Users/macbookpro/vagrant-local/www/rice/htdocs/wp-content/themes/rice/assets/styles/layouts/_home-contact.scss",
+		"/Users/macbookpro/vagrant-local/www/rice/htdocs/wp-content/themes/rice/assets/styles/common/_variables.scss",
+		"/Users/macbookpro/vagrant-local/www/rice/htdocs/wp-content/themes/rice/assets/styles/common/_fonts.scss",
+		"/Users/macbookpro/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/macbookpro/vagrant-local/www/rice/htdocs/wp-content/themes/rice/assets/scripts/main.js",
+		"/Users/macbookpro/Desktop/Workspace/Soul Archive/arcive/onlinefontconverter.com/converted-files/font.css",
+		"/Users/macbookpro/Desktop/Workspace/Soul Archive/arcive (1)/onlinefontconverter.com/converted-files/font.css",
+		"/Users/macbookpro/Desktop/Workspace/Soul Archive/onlinefontconverter.com/converted-files/font.css",
+		"/Users/macbookpro/Desktop/Workspace/arcive/onlinefontconverter.com 4/converted-files/font.css",
+		"/Users/macbookpro/Desktop/Workspace/arcive/onlinefontconverter.com 3/converted-files/font.css",
+		"/Users/macbookpro/Desktop/Workspace/arcive/onlinefontconverter.com 2/converted-files/font.css",
+		"/Users/macbookpro/Desktop/Workspace/arcive/onlinefontconverter.com/converted-files/font.css"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Lighter",
+			"acf",
+			"$archives",
+			"photo-container-mobile",
+			"initMobileSlideshow",
+			"initPhotoSlideshow",
+			"resize",
+			"triggerResize",
+			"initPhotoSlideshow",
+			"bindResizeBox",
+			"padding: 0 50",
+			"padding: 0 50px",
+			"padding",
+			"centerPadding",
+			"slick({",
+			"50",
+			"50,",
+			"padding",
+			"initMobileSlideshow",
+			"initPhotoSlideshow",
+			"initMobileSlideshow",
+			"initPhotoSlideshow",
+			"initPhotoS",
+			"initPhotos",
+			"$photoCarourel",
+			"initPreviews",
+			"#archives",
+			"archives",
+			"comingSoon",
+			"height: 0",
+			"display: none;",
+			"grid-image-1",
+			"archive-grid",
+			"archive-section",
+			"archive-section-mobile",
+			"data('url",
+			"initAllBoxes",
+			"finalize",
+			"700",
+			"$image",
+			"initBoxComplete",
+			"initAllBoxes",
+			"0",
+			"$('.fp-section.active').prev()",
+			"$('.fp-section.active').next()",
+			".back-to-top",
+			"return true;",
+			"false",
+			"moveTo",
+			"$.fn.fullpage.moveTo",
+			"moveTo",
+			"#",
+			") ||",
+			"$active.is(",
+			"							$active.is(",
+			"3",
+			"//  ",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/js/_main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13863,
+								13863
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/js/_main.js",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/photographers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1198,
+								1198
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/photographers.php",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archive-film.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1173
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archive-film.php",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/film.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/film.php",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archives.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1150,
+								1150
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/templates/archives.php",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								927,
+								927
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/functions.php",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/partial/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/partial/_variables.scss",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/layouts/_archives.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5363,
+								5363
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_savvy.file_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content/themes/sar/dev/scss/layouts/_archives.scss",
+							"git_savvy.repo_path": "/Users/macbookpro/vagrant-local/www/sar/htdocs/wp-content",
+							"history_list_is_closing": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7074.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.843403748924,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "sar.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"acf",
+				"acf-configs.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"film",
+				"templates/film.php"
+			],
+			[
+				"archive-f",
+				"templates/archive-film.php"
+			],
+			[
+				"pho",
+				"templates/photographers.php"
+			],
+			[
+				"archive",
+				"templates/archives.php"
+			],
+			[
+				"_var",
+				"dev/scss/partial/_variables.scss"
+			],
+			[
+				"archive-fi",
+				"templates/archive-film.php"
+			],
+			[
+				"_main",
+				"dev/js/_main.js"
+			],
+			[
+				"unicef",
+				"templates/unicef-zeroawards.php"
+			],
+			[
+				"main.",
+				"assets/scripts/main.js"
+			],
+			[
+				"unice",
+				"assets/styles/layouts/_unicef-zeroawards.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
